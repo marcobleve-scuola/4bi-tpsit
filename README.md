@@ -1,6 +1,6 @@
 # 📘 **TPSIT – Tecnologie e Progettazione di Sistemi Informatici e di Telecomunicazioni**
 
-**TPSIT** (Tecnologie e Progettazione di Sistemi Informatici e di Telecomunicazioni) è una disciplina dell’indirizzo Informatica degli Istituti Tecnici. Si concentra sulla progettazione, implementazione e gestione di sistemi informatici e di rete. Attraverso un approccio pratico e laboratoriale, gli studenti apprendono concetti fondamentali di architetture hardware e software, protocolli di comunicazione, sistemi distribuiti, sicurezza informatica e sviluppo di applicazioni client-server. La materia favorisce lo sviluppo di competenze trasversali utili per affrontare progetti reali e per l’inserimento nel mondo del lavoro o nel proseguimento degli studi universitari2.
+**TPSIT** (Tecnologie e Progettazione di Sistemi Informatici e di Telecomunicazioni) è una disciplina dell’indirizzo Informatica degli Istituti Tecnici. Si concentra sulla progettazione, implementazione e gestione di sistemi informatici e di rete. Attraverso un approccio pratico e laboratoriale, gli studenti apprendono concetti fondamentali di architetture hardware e software, protocolli di comunicazione, sistemi distribuiti, sicurezza informatica e sviluppo di applicazioni client-server. La materia favorisce lo sviluppo di competenze trasversali utili per affrontare progetti reali e per l’inserimento nel mondo del lavoro o nel proseguimento degli studi universitarieed.
 ---
 
 ## 🎯 **Obiettivi principali**
