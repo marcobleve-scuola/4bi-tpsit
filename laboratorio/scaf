@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+#include <windows.h>
+
+
+
+int main(){
+	int numero;
+	printf("scrivi un numero: ");
+	scanf("%d", &numero); //lecce il valore che inseriamo da tastiera e lo salva nella memoria 
+	// %X stampa il numero in valore esadecimale 
+	printf("il numero letto e' : %d \n", numero);
+	printf("l'indirizzo del numero in esadecimale e' %X", &numero);
+
+return 0;
+}	
+
+ 
